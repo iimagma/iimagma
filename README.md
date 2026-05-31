@@ -13,11 +13,11 @@
 
 ###
 
-<p align="center">Engenharia da computação</p>
+<p align="center">Engenharia de software</p>
 
 ###
 
-<h3 align="left">Hey there 👋<br><br>Olá! Sou aluno da Uninter, estou cursando Engenharia da Computação, busco me profissionalizar nas minhas áreas de interesse que incluem Análise de dados, Inteligência Artificial (I.A) e utilização de PCB para dar vida aos meus códigos.<br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar a minha evolução e aplicar a melhoria contínua na minha trajetória.<br><br>🛠️ Language and Tools</h3>
+<h3 align="left">Hey there 👋<br><br>Olá! Sou aluno da Uninter, estou cursando Engenharia de software, busco me profissionalizar nas minhas áreas de interesse que incluem Análise de dados e Inteligência Artificial (I.A).<br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar a minha evolução e aplicar a melhoria contínua na minha trajetória.<br><br>🛠️ Language and Tools</h3>
 
 ###
 
